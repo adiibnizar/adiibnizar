@@ -77,26 +77,6 @@ I'm a dedicated software developer with expertise in both frontend and backend t
 
 ---
 
-## 📂 Featured Projects
-
-Here are some of my notable repositories. Visit my [GitHub profile](https://github.com/adiibnizar) to see all my projects.
-
-### **🌟 Pinned Repositories**
-<!-- The repositories below will automatically display your pinned repositories from GitHub -->
-<!-- You can pin repositories on your GitHub profile to showcase them here -->
-
-### **🔧 Recent Activity**
-<!-- Your recent GitHub activity will be displayed here -->
-<!-- This section will automatically update as you work on new projects -->
-
----
-
-## 📝 Blog & Writing
-
-I occasionally write about technology, programming, and my learning journey. Check back soon for new articles!
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing technology, collaboration opportunities, or just having a friendly chat about development.
